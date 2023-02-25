@@ -21,7 +21,7 @@ to test if everything works after install.
 A list of things I don't have in place yet:
 
 - [ ] Figure out how I want to handle CSS (Less/Styled Components/... ?)
-- [ ] Configuration for [Nova][]
+- [x] Configuration for [Nova][]
 
 
 ## Acknowledgements
