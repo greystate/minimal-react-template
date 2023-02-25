@@ -1,0 +1,8 @@
+{
+  "index.ignored_file_patterns" : [
+    "node_modules"
+  ],
+  "workspace.art_style" : 0,
+  "workspace.color" : 12,
+  "workspace.name" : "React Template"
+}
