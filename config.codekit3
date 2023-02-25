@@ -25,6 +25,12 @@
       "oAP" : "\/build\/.gitignore",
       "oF" : 0
     },
+    "\/.nova" : {
+      "ft" : 65536,
+      "oA" : 1,
+      "oAP" : "\/build\/.nova",
+      "oF" : 0
+    },
     "\/build" : {
       "ft" : 65536,
       "oA" : 1,
