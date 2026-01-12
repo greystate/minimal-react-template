@@ -1,15 +1,21 @@
 {
-  "name": "minimal-react",
-  "version": "1.0.0",
-  "description": "Trying out using CodeKit to develop a React app",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description" : "Trying out using CodeKit to develop a React app",
+  "scripts" : {
+    "test" : "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Chriztian Steinmeier",
-  "license": "MIT",
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+  "main" : "index.js",
+  "version" : "1.0.0",
+  "license" : "MIT",
+  "author" : "Chriztian Steinmeier",
+  "name" : "minimal-react",
+  "devDependencies" : {
+
+  },
+  "dependencies" : {
+    "react" : "^19.2.3",
+    "react-dom" : "^19.2.3"
+  },
+  "optionalDependencies" : {
+
   }
 }
