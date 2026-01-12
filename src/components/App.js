@@ -7,7 +7,7 @@ function App() {
 		{ name: 'CSS', definition: 'Cascading Style Sheets' },
 		{ name: 'JS', definition: 'JavaScript' }
 	]
-	
+
 	return (
 		<TermsList terms={terms} />
 	)
