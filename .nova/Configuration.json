@@ -1,4 +1,5 @@
 {
+  "com.CodeKitApp.Nova.codekitFolder" : "\/Users\/chriz\/Development\/lib\/templates\/minimal-react",
   "index.ignored_file_patterns" : [
     "node_modules"
   ],
